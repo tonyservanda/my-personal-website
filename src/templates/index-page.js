@@ -214,7 +214,7 @@ const HomePage = ({ data }) => {
 					)}
 				</div>
 			</div>
-			<BlogListHome />
+			{/* <BlogListHome /> */}
 		</Layout>
 	);
 };
